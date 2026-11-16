@@ -1,0 +1,4 @@
+Test period: 2024-11-01 to 2024-12-30 (60 days)
+Gradient boosting  MAE: 29.71  RMSE: 39.60
+Naive (lag 7)      MAE: 48.14  RMSE: 68.75
+MAE improvement over baseline: 38.3%
